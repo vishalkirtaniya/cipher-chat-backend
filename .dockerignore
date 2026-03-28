@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.env
+.log
+test-server.js
+.git
+.gitignore
+README.md
+deploy.sh
